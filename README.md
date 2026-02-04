@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/code/hassanjameelahmed/venezuela-economic-evolution-a-data-driven" target="_blank">
-    <img src="001.png" alt="Venezuela_Economic_Evolution_1960-2023" width="900">
+    <img src="1.png" alt="Venezuela_Economic_Evolution_1960-2023" width="900">
   </a>
 </p>
 
